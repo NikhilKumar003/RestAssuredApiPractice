@@ -63,3 +63,6 @@ local.properties
 ## OS X
 ##############################
 .DS_Store
+
+# Ignore all test-output files and folders (commonly created by TestNG)
+test-output/
